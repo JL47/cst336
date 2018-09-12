@@ -1,22 +1,24 @@
-nav{
-    display: block;
-    padding:200px;
-    
-}
+
 img{
     /*width:400px;*/
     display: block;
     margin:auto;
-    border:red;
+    
 }
 header{
+    
      text-align:center;
      margin-top:50px;
+}
+h1{
+    font-family:helvetica;
+    font-size:x-large;
 }
 nav{
     text-align:center;
     padding:30px;
-    font-size: large
+    font-size: large;
+    font-family:verdana;
     /*letter-spacing:2px;*/
    /*word-spacing:15px;*/}
 p{
@@ -24,18 +26,17 @@ p{
     margin:2in;
     font-style:italic;
     font-size: larger;
+    font-family:times;
 }
 footer{
         text-align:center;
+        
 }
 div{
     text-align:center; 
     margin: auto;
 }
 body{
-    background-color:black;
+    background-color:gray;
     color: white
-}
-a{
-    text-align: center;
 }
