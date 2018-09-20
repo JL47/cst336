@@ -1,0 +1,13 @@
+[12-Sep-2018 21:49:01 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 12
+[12-Sep-2018 22:08:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 39
+[12-Sep-2018 22:09:15 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:09:29 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:11:55 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:12:16 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:13:29 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:13:39 UTC] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:14:34 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:14:43 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:15:26 UTC] PHP Parse error:  syntax error, unexpected '");"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 24
+[12-Sep-2018 22:16:15 UTC] PHP Parse error:  syntax error, unexpected '");"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 17
+[12-Sep-2018 22:19:15 UTC] PHP Parse error:  syntax error, unexpected '");"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/cst336/labs/Lab2/review/randomColor.php on line 17
