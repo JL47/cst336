@@ -1,0 +1,44 @@
+body{
+    background-color: orange;
+    color: white;
+    
+}
+div{
+    text-align: center;
+    
+    
+}
+header{
+    text-align: center;
+    font-family: "Arial";
+    font-size: x-large;
+    text-shadow: black;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    
+}
+input{
+    text-align: center;
+    width: 10%;
+    position:absolute;
+    left:600px;
+    padding-top: 5px;
+}
+#car{
+    width:25%;
+    border: 8px double;
+    border-color: red;
+    padding: 15px;
+    box-shadow: 5px 5px gray;
+    
+}
+
+footer {
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+ text-align: center;
+ text-decoration: underline;
+ padding:10px;
+    
+}
