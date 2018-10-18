@@ -71,17 +71,17 @@ function formIsValid()
                     }
                 ?>
             > Horizontal
-            <input type="radio" name="layout" value="vertical"  <?=($_GET['layout']=="vertical")?" checked":"" ?> > Vertical
+            <input type="radio" name="layout" value="vertical"  <?=($_GET['layout']=="vertical")?" checked":"" ?> /> Vertical
             
             
         
         
         <select name ="category">
             <option value= "">Select One </option>
-            <option value="mountains"<? ($_GET['category']=="mountains"? "checked":""?> Mountains </option>
-            <option value="ocean"<? ($_GET['category']=="ocean"? "checked":""?> Sea </option>
-            <option value="forest"<? ($_GET['category']=="forest"? "checked":""?> Forest</option>
-            <option value="sky"<? ($_GET['category']=="sky"? "checked":""?>Sky</option>
+            <option value="mountains"<?= ($_GET['category']=="mountains")? "checked":""?> Mountains </option>
+            <option value="ocean"<?= ($_GET['category']=="ocean")? "checked":""?> Sea </option>
+            <option value="forest"<?= ($_GET['category']=="forest")? "checked":""?> Forest</option>
+            <option value="sky"<?= ($_GET['category']=="sky")? "checked":""?>Sky</option>
             
         </select>
             <input type="submit" name="Submit" value="submit">  
