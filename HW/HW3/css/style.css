@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    color:white;
+    border-style:solid;
+    border-color: black;
+    border-width:10px;
+}
+body{
+    padding: inherit;
+    color:white;
+    text-align: center;
+    background-color: red;
+    backface-visibility: hidden;
+}
+.Q1{
+    border-style:solid;
+    
+}
+.Q2{
+    border-style:solid;
+}
+.Q3{
+    border-style:solid;
+}
+.Q4{
+    border-style:solid;
+}
+.Q5{
+    border-style:solid;
+}
+.Q6{
+    border-style:solid;
+}
