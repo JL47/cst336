@@ -1,0 +1,917 @@
+[10-Sep-2018 21:55:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/labs/Lab2/index.php on line 18
+[17-Sep-2018 20:32:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab2/index.php on line 72
+[17-Sep-2018 20:33:47 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/labs/Lab2/index.php on line 72
+[17-Sep-2018 20:33:47 UTC] PHP Stack trace:
+[17-Sep-2018 20:33:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab2/index.php:0
+[17-Sep-2018 20:34:28 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/labs/Lab2/index.php on line 72
+[17-Sep-2018 20:34:28 UTC] PHP Stack trace:
+[17-Sep-2018 20:34:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab2/index.php:0
+[17-Sep-2018 22:30:13 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/labs/Lab2/index.php on line 11
+[17-Sep-2018 22:30:13 UTC] PHP Stack trace:
+[17-Sep-2018 22:30:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab2/index.php:0
+[24-Sep-2018 01:38:44 UTC] PHP Warning:  Missing argument 1 for showImage(), called in /home/ubuntu/workspace/cst336/labs/Lab3/index.php on line 12 and defined in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 2
+[24-Sep-2018 01:38:44 UTC] PHP Stack trace:
+[24-Sep-2018 01:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 01:38:44 UTC] PHP   2. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 20:43:50 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 24
+[24-Sep-2018 20:43:50 UTC] PHP Stack trace:
+[24-Sep-2018 20:43:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 20:43:50 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 20:43:50 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:33
+[24-Sep-2018 20:43:50 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:24
+[24-Sep-2018 20:43:50 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 24
+[24-Sep-2018 20:43:50 UTC] PHP Stack trace:
+[24-Sep-2018 20:43:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 20:43:50 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 20:43:50 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:33
+[24-Sep-2018 20:43:50 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:24
+[24-Sep-2018 20:43:50 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 24
+[24-Sep-2018 20:43:50 UTC] PHP Stack trace:
+[24-Sep-2018 20:43:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 20:43:50 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 20:43:50 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:33
+[24-Sep-2018 20:43:50 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:24
+[24-Sep-2018 20:43:50 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 24
+[24-Sep-2018 20:43:50 UTC] PHP Stack trace:
+[24-Sep-2018 20:43:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 20:43:50 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 20:43:50 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:33
+[24-Sep-2018 20:43:50 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:24
+[24-Sep-2018 21:02:58 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 25
+[24-Sep-2018 21:02:58 UTC] PHP Stack trace:
+[24-Sep-2018 21:02:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:02:58 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:02:58 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:34
+[24-Sep-2018 21:02:58 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:25
+[24-Sep-2018 21:02:58 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 25
+[24-Sep-2018 21:02:58 UTC] PHP Stack trace:
+[24-Sep-2018 21:02:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:02:58 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:02:58 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:34
+[24-Sep-2018 21:02:58 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:25
+[24-Sep-2018 21:02:58 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 25
+[24-Sep-2018 21:02:58 UTC] PHP Stack trace:
+[24-Sep-2018 21:02:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:02:58 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:02:58 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:34
+[24-Sep-2018 21:02:58 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:25
+[24-Sep-2018 21:02:58 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 25
+[24-Sep-2018 21:02:58 UTC] PHP Stack trace:
+[24-Sep-2018 21:02:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:02:58 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:02:58 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:34
+[24-Sep-2018 21:02:58 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:25
+[24-Sep-2018 21:15:59 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 26
+[24-Sep-2018 21:15:59 UTC] PHP Stack trace:
+[24-Sep-2018 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:15:59 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:15:59 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:35
+[24-Sep-2018 21:15:59 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:26
+[24-Sep-2018 21:15:59 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 26
+[24-Sep-2018 21:15:59 UTC] PHP Stack trace:
+[24-Sep-2018 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:15:59 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:15:59 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:35
+[24-Sep-2018 21:15:59 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:26
+[24-Sep-2018 21:15:59 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 26
+[24-Sep-2018 21:15:59 UTC] PHP Stack trace:
+[24-Sep-2018 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:15:59 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:15:59 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:35
+[24-Sep-2018 21:15:59 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:26
+[24-Sep-2018 21:15:59 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 26
+[24-Sep-2018 21:15:59 UTC] PHP Stack trace:
+[24-Sep-2018 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:15:59 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[24-Sep-2018 21:15:59 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:35
+[24-Sep-2018 21:15:59 UTC] PHP   4. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:26
+[24-Sep-2018 21:26:12 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[24-Sep-2018 21:26:12 UTC] PHP Stack trace:
+[24-Sep-2018 21:26:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:26:12 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:11
+[24-Sep-2018 21:26:12 UTC] PHP   3. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:38
+[24-Sep-2018 21:27:20 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[24-Sep-2018 21:27:20 UTC] PHP Stack trace:
+[24-Sep-2018 21:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[24-Sep-2018 21:27:20 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:11
+[24-Sep-2018 21:27:20 UTC] PHP   3. array_values() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:38
+[25-Sep-2018 00:02:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[25-Sep-2018 00:02:30 UTC] PHP Stack trace:
+[25-Sep-2018 00:02:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:02:30 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:03:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[25-Sep-2018 00:03:13 UTC] PHP Stack trace:
+[25-Sep-2018 00:03:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:03:13 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:03:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[25-Sep-2018 00:03:14 UTC] PHP Stack trace:
+[25-Sep-2018 00:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:03:14 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 35
+[25-Sep-2018 00:04:44 UTC] PHP Stack trace:
+[25-Sep-2018 00:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:04:44 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 35
+[25-Sep-2018 00:04:44 UTC] PHP Stack trace:
+[25-Sep-2018 00:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:04:44 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 35
+[25-Sep-2018 00:04:44 UTC] PHP Stack trace:
+[25-Sep-2018 00:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:04:44 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:04:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 35
+[25-Sep-2018 00:04:44 UTC] PHP Stack trace:
+[25-Sep-2018 00:04:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:04:44 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:06:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 39
+[25-Sep-2018 00:06:47 UTC] PHP Stack trace:
+[25-Sep-2018 00:06:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:06:47 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:09:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[25-Sep-2018 00:09:16 UTC] PHP Stack trace:
+[25-Sep-2018 00:09:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:09:16 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:12:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[25-Sep-2018 00:12:26 UTC] PHP Stack trace:
+[25-Sep-2018 00:12:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:12:26 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:15:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 38
+[25-Sep-2018 00:15:59 UTC] PHP Stack trace:
+[25-Sep-2018 00:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:15:59 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:16:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 41
+[25-Sep-2018 00:16:52 UTC] PHP Stack trace:
+[25-Sep-2018 00:16:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:16:52 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:16:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 41
+[25-Sep-2018 00:16:52 UTC] PHP Stack trace:
+[25-Sep-2018 00:16:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:16:52 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:16:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 41
+[25-Sep-2018 00:16:52 UTC] PHP Stack trace:
+[25-Sep-2018 00:16:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:16:52 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:16:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 41
+[25-Sep-2018 00:16:52 UTC] PHP Stack trace:
+[25-Sep-2018 00:16:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:16:52 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:18:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 51
+[25-Sep-2018 00:18:13 UTC] PHP Stack trace:
+[25-Sep-2018 00:18:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:18:13 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:28:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 42
+[25-Sep-2018 00:28:16 UTC] PHP Stack trace:
+[25-Sep-2018 00:28:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:28:16 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:33:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 43
+[25-Sep-2018 00:33:23 UTC] PHP Stack trace:
+[25-Sep-2018 00:33:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:33:23 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:38:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 43
+[25-Sep-2018 00:38:44 UTC] PHP Stack trace:
+[25-Sep-2018 00:38:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:38:44 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:41:31 UTC] PHP Fatal error:  Call to undefined function isArray() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 42
+[25-Sep-2018 00:41:31 UTC] PHP Stack trace:
+[25-Sep-2018 00:41:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:41:31 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:42:58 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 46
+[25-Sep-2018 00:42:58 UTC] PHP Stack trace:
+[25-Sep-2018 00:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:52:59 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 45
+[25-Sep-2018 00:52:59 UTC] PHP Stack trace:
+[25-Sep-2018 00:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 00:52:59 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 00:52:59 UTC] PHP   3. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP   4. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP   5. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP   6. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP   7. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP   8. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP   9. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  10. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  11. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  12. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  13. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  14. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  15. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  16. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  17. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  18. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  19. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  20. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  21. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  22. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  23. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  24. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  25. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  26. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  27. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  28. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  29. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  30. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  31. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  32. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  33. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  34. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  35. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  36. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  37. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  38. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  39. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  40. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  41. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  42. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  43. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  44. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  45. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  46. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  47. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  48. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  49. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  50. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  51. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  52. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  53. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  54. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  55. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  56. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  57. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  58. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  59. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  60. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  61. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  62. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  63. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  64. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  65. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  66. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  67. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  68. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  69. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  70. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  71. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  72. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  73. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  74. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  75. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  76. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  77. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  78. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  79. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  80. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  81. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  82. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  83. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  84. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  85. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  86. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  87. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  88. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  89. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  90. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  91. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  92. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  93. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  94. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  95. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  96. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  97. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP  98. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP  99. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 100. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 101. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 102. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 103. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 104. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 105. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 106. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 107. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 108. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 109. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 110. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 111. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 112. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 113. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 114. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 115. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 116. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 117. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 118. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 119. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 120. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 121. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 122. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 123. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 124. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 125. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 126. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 127. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 128. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 129. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 130. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 131. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 132. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 133. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 134. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 135. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 136. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 137. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 138. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 139. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 140. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 141. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 142. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 143. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 144. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 145. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 146. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 147. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 148. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 149. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 150. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 151. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 152. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 153. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 154. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 155. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 156. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 157. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 158. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 159. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 160. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 161. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 162. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 163. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 164. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 165. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 166. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 167. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 168. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 169. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 170. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 171. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 172. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 173. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 174. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 175. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 176. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 177. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 178. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 179. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 180. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 181. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 182. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 183. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 184. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 185. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 186. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 187. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 188. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 189. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 190. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 191. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 192. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 193. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 194. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 195. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 196. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 197. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 198. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 199. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 200. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 201. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 202. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 203. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 204. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 205. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 206. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 207. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 208. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 209. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 210. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 211. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 212. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 213. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 214. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 215. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 216. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 217. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 218. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 219. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 220. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 221. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 222. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 223. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 224. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 225. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 226. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 227. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 228. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 229. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 230. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 231. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 232. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 233. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 234. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 235. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 236. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 237. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 238. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 239. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 240. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 241. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 242. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 243. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 244. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 245. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 246. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 247. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 248. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 249. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 250. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 251. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 252. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 253. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 254. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 00:52:59 UTC] PHP 255. showImage() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:46
+[25-Sep-2018 00:52:59 UTC] PHP 256. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:29
+[25-Sep-2018 01:03:51 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 31
+[25-Sep-2018 01:03:51 UTC] PHP Stack trace:
+[25-Sep-2018 01:03:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 01:27:52 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 69
+[25-Sep-2018 01:27:52 UTC] PHP Stack trace:
+[25-Sep-2018 01:27:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 01:27:52 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:12
+[25-Sep-2018 01:27:52 UTC] PHP   3. array_unique() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:69
+[25-Sep-2018 02:26:19 UTC] PHP Warning:  Missing argument 2 for matchtoPrice(), called in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 73 and defined in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 30
+[25-Sep-2018 02:26:19 UTC] PHP Stack trace:
+[25-Sep-2018 02:26:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 02:26:19 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:15
+[25-Sep-2018 02:26:19 UTC] PHP   3. matchtoPrice() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:73
+[25-Sep-2018 02:26:19 UTC] PHP Warning:  Missing argument 3 for matchtoPrice(), called in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 73 and defined in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 30
+[25-Sep-2018 02:26:19 UTC] PHP Stack trace:
+[25-Sep-2018 02:26:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[25-Sep-2018 02:26:19 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:15
+[25-Sep-2018 02:26:19 UTC] PHP   3. matchtoPrice() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:73
+[26-Sep-2018 04:12:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 19
+[26-Sep-2018 04:12:09 UTC] PHP Stack trace:
+[26-Sep-2018 04:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[26-Sep-2018 04:12:09 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:15
+[26-Sep-2018 04:12:09 UTC] PHP   3. matchtoPrice() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:40
+[26-Sep-2018 18:57:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 19
+[26-Sep-2018 18:57:32 UTC] PHP Stack trace:
+[26-Sep-2018 18:57:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[26-Sep-2018 18:57:32 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:15
+[26-Sep-2018 18:57:32 UTC] PHP   3. ratePrice() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:38
+[26-Sep-2018 18:57:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 19
+[26-Sep-2018 18:57:32 UTC] PHP Stack trace:
+[26-Sep-2018 18:57:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[26-Sep-2018 18:57:32 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:15
+[26-Sep-2018 18:57:32 UTC] PHP   3. ratePrice() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:38
+[26-Sep-2018 18:57:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php on line 19
+[26-Sep-2018 18:57:32 UTC] PHP Stack trace:
+[26-Sep-2018 18:57:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:0
+[26-Sep-2018 18:57:32 UTC] PHP   2. shuffleCars() /home/ubuntu/workspace/cst336/labs/Lab3/index.php:15
+[26-Sep-2018 18:57:32 UTC] PHP   3. ratePrice() /home/ubuntu/workspace/cst336/labs/Lab3/func/functions.php:38
+[01-Oct-2018 21:37:07 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:42:26 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:43:48 UTC] PHP Fatal error:  Call to undefined function imageURLs() in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:43:48 UTC] PHP Stack trace:
+[01-Oct-2018 21:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab4/index.php:0
+[01-Oct-2018 21:44:50 UTC] PHP Fatal error:  Call to undefined function imageURLs() in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:44:50 UTC] PHP Stack trace:
+[01-Oct-2018 21:44:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab4/index.php:0
+[01-Oct-2018 21:45:02 UTC] PHP Fatal error:  Call to undefined function imageURLs() in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:45:02 UTC] PHP Stack trace:
+[01-Oct-2018 21:45:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab4/index.php:0
+[01-Oct-2018 21:45:43 UTC] PHP Fatal error:  Call to undefined function imageURLs() in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:45:43 UTC] PHP Stack trace:
+[01-Oct-2018 21:45:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab4/index.php:0
+[01-Oct-2018 21:45:52 UTC] PHP Fatal error:  Call to undefined function imageURLs() in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 57
+[01-Oct-2018 21:45:52 UTC] PHP Stack trace:
+[01-Oct-2018 21:45:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab4/index.php:0
+[01-Oct-2018 21:49:03 UTC] PHP Fatal error:  Call to undefined function imageURLs() in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 58
+[01-Oct-2018 21:49:03 UTC] PHP Stack trace:
+[01-Oct-2018 21:49:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab4/index.php:0
+[01-Oct-2018 22:23:21 UTC] PHP Parse error:  syntax error, unexpected 'carousel' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 76
+[03-Oct-2018 21:21:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '(' in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 102
+[03-Oct-2018 21:23:20 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 101
+[03-Oct-2018 22:53:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting while (T_WHILE) in /home/ubuntu/workspace/cst336/labs/Lab4/index.php on line 108
+[10-Oct-2018 22:12:26 UTC] PHP Warning:  Illegal string offset 'catName' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 22
+[10-Oct-2018 22:12:26 UTC] PHP Stack trace:
+[10-Oct-2018 22:12:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab6/index.php:0
+[10-Oct-2018 22:12:26 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab6/index.php:36
+[10-Oct-2018 22:12:26 UTC] PHP Warning:  Illegal string offset 'catName' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 22
+[10-Oct-2018 22:12:26 UTC] PHP Stack trace:
+[10-Oct-2018 22:12:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab6/index.php:0
+[10-Oct-2018 22:12:26 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab6/index.php:36
+[10-Oct-2018 22:12:26 UTC] PHP Warning:  Illegal string offset 'catName' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 22
+[10-Oct-2018 22:12:26 UTC] PHP Stack trace:
+[10-Oct-2018 22:12:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab6/index.php:0
+[10-Oct-2018 22:12:26 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab6/index.php:36
+[10-Oct-2018 22:22:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like productName' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(29): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(54): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 29
+[10-Oct-2018 22:26:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like productName' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(29): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(59): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 29
+[10-Oct-2018 22:26:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like productName' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:29
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(29): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(59): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 29
+[10-Oct-2018 22:45:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[10-Oct-2018 22:51:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[10-Oct-2018 22:51:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[10-Oct-2018 22:51:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[10-Oct-2018 22:51:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[10-Oct-2018 22:51:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[10-Oct-2018 22:51:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:41
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(41): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(73): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 41
+[15-Oct-2018 22:14:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:52
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(52): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(84): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 52
+[15-Oct-2018 22:21:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:21:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:23:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:24:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:26:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:27:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:28:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:28:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:33:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:33:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:33:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:33:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:33:31 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 32
+[15-Oct-2018 22:33:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 32
+[15-Oct-2018 22:33:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:49
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(49): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(81): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 49
+[15-Oct-2018 22:41:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': category' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:58
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(58): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(93): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 58
+[15-Oct-2018 22:44:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:60
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(60): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(95): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 60
+[15-Oct-2018 22:45:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': product ORDER BY productName' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:60
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(60): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(95): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 60
+[15-Oct-2018 22:45:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': product' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:60
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(60): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(95): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 60
+[15-Oct-2018 22:46:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': product' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab6/index.php:60
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(60): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/Lab6/index.php(95): filterProducts()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab6/index.php on line 60
+[22-Oct-2018 22:23:50 UTC] PHP Fatal error:  Call to undefined function displayAllProducts() in /home/ubuntu/workspace/cst336/labs/Lab7/admin.php on line 24
+[22-Oct-2018 22:23:50 UTC] PHP Stack trace:
+[22-Oct-2018 22:23:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[22-Oct-2018 22:24:35 UTC] PHP Fatal error:  Call to undefined function displayAllProducts() in /home/ubuntu/workspace/cst336/labs/Lab7/admin.php on line 24
+[22-Oct-2018 22:24:35 UTC] PHP Stack trace:
+[22-Oct-2018 22:24:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[22-Oct-2018 22:45:47 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/admin.php on line 12
+[22-Oct-2018 22:45:47 UTC] PHP Stack trace:
+[22-Oct-2018 22:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[22-Oct-2018 22:45:47 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:45
+[22-Oct-2018 22:48:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/admin.php on line 12
+[22-Oct-2018 22:48:24 UTC] PHP Stack trace:
+[22-Oct-2018 22:48:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[22-Oct-2018 22:48:24 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:47
+[29-Oct-2018 21:16:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'c9.om_admin' doesn't exist' in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php on line 14
+[29-Oct-2018 21:16:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'c9.om_admin' doesn't exist' in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php on line 14
+[29-Oct-2018 21:18:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'c9.om_admin' doesn't exist' in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php on line 14
+[29-Oct-2018 21:19:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'c9.om_admin' doesn't exist' in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php:14
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/loginProcess.php on line 14
+[29-Oct-2018 21:21:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:21:23 UTC] PHP Stack trace:
+[29-Oct-2018 21:21:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:21:23 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:31
+[29-Oct-2018 21:30:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:30:51 UTC] PHP Stack trace:
+[29-Oct-2018 21:30:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:30:51 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:31
+[29-Oct-2018 21:31:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:31:18 UTC] PHP Stack trace:
+[29-Oct-2018 21:31:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:31:18 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:31
+[29-Oct-2018 21:32:14 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:32:14 UTC] PHP Stack trace:
+[29-Oct-2018 21:32:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:32:14 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:31
+[29-Oct-2018 21:32:25 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:32:25 UTC] PHP Stack trace:
+[29-Oct-2018 21:32:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:32:25 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:31
+[29-Oct-2018 21:33:09 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:33:09 UTC] PHP Stack trace:
+[29-Oct-2018 21:33:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:33:09 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:33:17 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:33:17 UTC] PHP Stack trace:
+[29-Oct-2018 21:33:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:33:17 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:40:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 7
+[29-Oct-2018 21:40:52 UTC] PHP Stack trace:
+[29-Oct-2018 21:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:40:52 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:32
+[29-Oct-2018 21:40:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 7
+[29-Oct-2018 21:40:53 UTC] PHP Stack trace:
+[29-Oct-2018 21:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:40:53 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:32
+[29-Oct-2018 21:40:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 7
+[29-Oct-2018 21:40:53 UTC] PHP Stack trace:
+[29-Oct-2018 21:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:40:53 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:32
+[29-Oct-2018 21:42:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:42:57 UTC] PHP Stack trace:
+[29-Oct-2018 21:42:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:42:57 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:43:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:43:33 UTC] PHP Stack trace:
+[29-Oct-2018 21:43:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:43:33 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:43:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 7
+[29-Oct-2018 21:43:46 UTC] PHP Stack trace:
+[29-Oct-2018 21:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:43:46 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:32
+[29-Oct-2018 21:44:28 UTC] PHP Warning:  include(/inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 2
+[29-Oct-2018 21:44:28 UTC] PHP Stack trace:
+[29-Oct-2018 21:44:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:44:28 UTC] PHP Warning:  include(): Failed opening '/inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 2
+[29-Oct-2018 21:44:28 UTC] PHP Stack trace:
+[29-Oct-2018 21:44:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:44:28 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 8
+[29-Oct-2018 21:44:28 UTC] PHP Stack trace:
+[29-Oct-2018 21:44:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:44:28 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:33
+[29-Oct-2018 21:45:19 UTC] PHP Warning:  include(/inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 2
+[29-Oct-2018 21:45:19 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:19 UTC] PHP Warning:  include(): Failed opening '/inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 2
+[29-Oct-2018 21:45:19 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 9
+[29-Oct-2018 21:45:19 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:19 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:34
+[29-Oct-2018 21:45:24 UTC] PHP Warning:  include(/inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 2
+[29-Oct-2018 21:45:24 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:24 UTC] PHP Warning:  include(): Failed opening '/inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 2
+[29-Oct-2018 21:45:24 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:24 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 9
+[29-Oct-2018 21:45:24 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:24 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:34
+[29-Oct-2018 21:45:36 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 9
+[29-Oct-2018 21:45:36 UTC] PHP Stack trace:
+[29-Oct-2018 21:45:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:45:36 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:34
+[29-Oct-2018 21:46:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''om_categories'' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(11): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(35): displayCategories()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 11
+[29-Oct-2018 21:48:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''om_category'' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(11): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(35): displayCategories()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 11
+[29-Oct-2018 21:48:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''om_category'' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(11): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(35): displayCategories()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 11
+[29-Oct-2018 21:51:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''om_category'' at line 1' in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(11): PDOStatement->execute()
+#1 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(35): displayCategories()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 11
+[29-Oct-2018 21:57:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 14
+[29-Oct-2018 21:57:17 UTC] PHP Stack trace:
+[29-Oct-2018 21:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:57:17 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:35
+[29-Oct-2018 21:57:50 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:57:50 UTC] PHP Stack trace:
+[29-Oct-2018 21:57:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:57:50 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:57:56 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:57:56 UTC] PHP Stack trace:
+[29-Oct-2018 21:57:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:57:56 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:58:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:58:58 UTC] PHP Stack trace:
+[29-Oct-2018 21:58:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:58:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:58:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:58:59 UTC] PHP Stack trace:
+[29-Oct-2018 21:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:58:59 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:58:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:58:59 UTC] PHP Stack trace:
+[29-Oct-2018 21:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:58:59 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:58:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:58:59 UTC] PHP Stack trace:
+[29-Oct-2018 21:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:58:59 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:58:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 21:58:59 UTC] PHP Stack trace:
+[29-Oct-2018 21:58:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 21:58:59 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:35
+[29-Oct-2018 21:59:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 14
+[29-Oct-2018 21:59:05 UTC] PHP Stack trace:
+[29-Oct-2018 21:59:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 21:59:05 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:35
+[29-Oct-2018 22:06:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 39
+[29-Oct-2018 22:06:59 UTC] PHP Stack trace:
+[29-Oct-2018 22:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 22:10:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 43
+[29-Oct-2018 22:10:16 UTC] PHP Stack trace:
+[29-Oct-2018 22:10:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 22:10:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 44
+[29-Oct-2018 22:10:31 UTC] PHP Stack trace:
+[29-Oct-2018 22:10:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 22:12:19 UTC] PHP Fatal error:  Call to undefined function getCategories() in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 39
+[29-Oct-2018 22:12:19 UTC] PHP Stack trace:
+[29-Oct-2018 22:12:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:0
+[29-Oct-2018 22:15:57 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:15:57 UTC] PHP Stack trace:
+[29-Oct-2018 22:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:15:57 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:23:06 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:23:06 UTC] PHP Stack trace:
+[29-Oct-2018 22:23:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:23:06 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:23:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/Lab7/addProduct.php on line 25
+[29-Oct-2018 22:33:40 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:33:40 UTC] PHP Stack trace:
+[29-Oct-2018 22:33:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:33:40 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:34:16 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:34:16 UTC] PHP Stack trace:
+[29-Oct-2018 22:34:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:34:16 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:34:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:34:58 UTC] PHP Stack trace:
+[29-Oct-2018 22:34:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:34:58 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:35:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:35:45 UTC] PHP Stack trace:
+[29-Oct-2018 22:35:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:35:45 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:35:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:35:46 UTC] PHP Stack trace:
+[29-Oct-2018 22:35:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:35:46 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42
+[29-Oct-2018 22:44:30 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab7/inc/functions.php on line 8
+[29-Oct-2018 22:44:30 UTC] PHP Stack trace:
+[29-Oct-2018 22:44:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:0
+[29-Oct-2018 22:44:30 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/Lab7/admin.php:42

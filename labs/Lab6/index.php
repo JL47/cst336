@@ -2,7 +2,7 @@
 
 include '../../inc/dbConnection.php';
 
-$dbConn = startConnection();
+$dbConn = startConnection("ottermart");
 
 function displayCategories(){
     global $dbConn;
@@ -73,7 +73,7 @@ function filterProducts(){
    
    foreach($records as $record)
    {
-       echo "<a href=\'productInfo.php?productId=".$record['productId']. "\"> History </a>";
+       echo "<a href=\'productInfo.php?productId=".$record['productId']. "\"</a>";
        echo $record['productName']; 
        echo "</a>";
        echo $record['productDescription'] . $record['price'] . " <br><br>";
@@ -85,6 +85,7 @@ function filterProducts(){
 <html>
     <head>
         <title>Lab 6  </title>
+        <link rel="stylesheet" href="css/style.css" type="text/css" /> 
     </head>
     <body>
         <h1>Ottermart</h1>
@@ -98,8 +99,8 @@ function filterProducts(){
                 <option value="">Select One</option>
                 <?=displayCategories()?>
             </select>
-            <input type="submit" name="submit" value="Search!"/>
             
+            <br>
             Price: From: <input type="text" name="priceFrom"/>
              To: <input type="text" name ="priceTo"/>
             <br>
@@ -107,6 +108,7 @@ function filterProducts(){
              Price: <input type="radio" name="orderBy" value="productPrice" />
              Name: <input type="radio" name="orderBy" value="productName" />
             <br>
+            <input type="submit" name="submit" value="Search!"/> <br> <br
         </form>
         <?= filterProducts()?>
         

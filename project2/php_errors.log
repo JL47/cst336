@@ -1,0 +1,48 @@
+[30-Oct-2018 00:42:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 14
+[30-Oct-2018 00:42:45 UTC] PHP Stack trace:
+[30-Oct-2018 00:42:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:42:45 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:40
+[30-Oct-2018 00:43:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 14
+[30-Oct-2018 00:43:02 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:02 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:40
+[30-Oct-2018 00:43:06 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 14
+[30-Oct-2018 00:43:06 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:06 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:40
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerName' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 23
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerImage' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 24
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerTeam' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 25
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerName' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 23
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerImage' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 24
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerTeam' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 25
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerName' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 23
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerImage' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 24
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41
+[30-Oct-2018 00:43:31 UTC] PHP Warning:  Illegal string offset 'playerTeam' in /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php on line 25
+[30-Oct-2018 00:43:31 UTC] PHP Stack trace:
+[30-Oct-2018 00:43:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:0
+[30-Oct-2018 00:43:31 UTC] PHP   2. displayPurchaseHistory() /home/ubuntu/workspace/cst336/project2/project2/purchaseHistory.php:41

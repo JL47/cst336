@@ -1,0 +1,73 @@
+[10-Oct-2018 23:34:39 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cst336/scart/functions.php on line 29
+[10-Oct-2018 23:34:39 UTC] PHP Stack trace:
+[10-Oct-2018 23:34:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:16:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 13
+[11-Oct-2018 00:16:57 UTC] PHP Stack trace:
+[11-Oct-2018 00:16:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:16:57 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:13
+[11-Oct-2018 00:20:40 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 13
+[11-Oct-2018 00:20:40 UTC] PHP Stack trace:
+[11-Oct-2018 00:20:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:20:40 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:13
+[11-Oct-2018 00:22:37 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 13
+[11-Oct-2018 00:22:37 UTC] PHP Stack trace:
+[11-Oct-2018 00:22:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:22:37 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:13
+[11-Oct-2018 00:22:41 UTC] PHP Fatal error:  Call to undefined function displayCart() in /home/ubuntu/workspace/cst336/scart/scart.php on line 37
+[11-Oct-2018 00:22:41 UTC] PHP Stack trace:
+[11-Oct-2018 00:22:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/scart.php:0
+[11-Oct-2018 00:23:43 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 13
+[11-Oct-2018 00:23:43 UTC] PHP Stack trace:
+[11-Oct-2018 00:23:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:23:43 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:13
+[11-Oct-2018 00:29:20 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[11-Oct-2018 00:29:20 UTC] PHP Stack trace:
+[11-Oct-2018 00:29:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:29:20 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[11-Oct-2018 00:30:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[11-Oct-2018 00:30:16 UTC] PHP Stack trace:
+[11-Oct-2018 00:30:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:30:16 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[11-Oct-2018 00:30:18 UTC] PHP Fatal error:  Call to undefined function displayCart() in /home/ubuntu/workspace/cst336/scart/scart.php on line 37
+[11-Oct-2018 00:30:18 UTC] PHP Stack trace:
+[11-Oct-2018 00:30:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/scart.php:0
+[11-Oct-2018 00:31:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[11-Oct-2018 00:31:34 UTC] PHP Stack trace:
+[11-Oct-2018 00:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:31:34 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[11-Oct-2018 00:35:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[11-Oct-2018 00:35:09 UTC] PHP Stack trace:
+[11-Oct-2018 00:35:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[11-Oct-2018 00:35:09 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 18:44:16 UTC] PHP Fatal error:  Cannot redeclare displayResults() (previously declared in /home/ubuntu/workspace/cst336/scart/functions.php:3) in /home/ubuntu/workspace/cst336/scart/functions.php on line 3
+[12-Oct-2018 18:44:16 UTC] PHP Stack trace:
+[12-Oct-2018 18:44:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 18:44:16 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/scart/index.php:5
+[12-Oct-2018 18:44:51 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[12-Oct-2018 18:44:51 UTC] PHP Stack trace:
+[12-Oct-2018 18:44:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 18:44:51 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 18:45:10 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[12-Oct-2018 18:45:10 UTC] PHP Stack trace:
+[12-Oct-2018 18:45:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 18:45:10 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 18:49:59 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[12-Oct-2018 18:49:59 UTC] PHP Stack trace:
+[12-Oct-2018 18:49:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 18:49:59 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 18:50:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[12-Oct-2018 18:50:02 UTC] PHP Stack trace:
+[12-Oct-2018 18:50:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 18:50:02 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 19:01:50 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[12-Oct-2018 19:01:50 UTC] PHP Stack trace:
+[12-Oct-2018 19:01:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 19:01:50 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 19:02:00 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/scart/index.php on line 17
+[12-Oct-2018 19:02:00 UTC] PHP Stack trace:
+[12-Oct-2018 19:02:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/index.php:0
+[12-Oct-2018 19:02:00 UTC] PHP   2. array_push() /home/ubuntu/workspace/cst336/scart/index.php:17
+[12-Oct-2018 19:02:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/scart/functions.php on line 44
+[12-Oct-2018 19:02:06 UTC] PHP Stack trace:
+[12-Oct-2018 19:02:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/scart/scart.php:0
+[12-Oct-2018 19:02:06 UTC] PHP   2. displayCart() /home/ubuntu/workspace/cst336/scart/scart.php:38

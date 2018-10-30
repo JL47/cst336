@@ -1,0 +1,18 @@
+.column{
+    float: left;
+    padding:10px;
+    font-size: medium;
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.title{
+     background-color:navy;
+     color:white;
+}
+.logo{
+    float: left;
+    
+}

@@ -46,6 +46,7 @@ function displayProductInfo()
 <html>
     <head>
         <title> Product Purchase History </title>
+        <link rel="stylesheet" href="css/style.css" type="text/css" /> 
     </head>
     <body>
 <h2> Product Purchase History </h2>

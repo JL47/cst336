@@ -18,16 +18,14 @@ function displaySymbol($randomValue,$pos)
             }
          echo "<img id = 'reel$pos' src='img/$symbol.png' alt='$symbol' title='".ucfirst($symbol)."'width='70'>";
         
-        // echo $randomValue;
+        
         }
         
 function displayPoints($randomValue1, $randomValue2,$randomValue3)
         {
             
             echo "<div id = 'output'>";
-            // echo $randomValue1;
-            //     echo $randomValue2;
-            //     echo $randomValue3;
+          
             if($randomValue1==$randomValue2 && $randomValue2==$randomValue3)
             {
                 switch($randomValue1)
