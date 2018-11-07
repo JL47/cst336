@@ -1,9 +1,12 @@
 <?php
+session_start();
+
 
 include '../../inc/dbConnection.php';
 $dbConn = startConnection("ottermart");
 include 'inc/functions.php';
 
+validateSession();
 if (isset($_GET['addProduct'])) //checks whether the form was submitted
 {
     $productName = $_GET['productName'];

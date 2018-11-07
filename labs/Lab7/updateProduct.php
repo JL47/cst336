@@ -1,27 +1,29 @@
 <?php
+session_start();
 include '../../inc/dbConnection.php';
 $dbConn = startConnection("ottermart");
 include 'inc/functions.php';
-
+validateSession();
 if (isset($_GET['updateProduct'])){  //user has submitted update form
     $productName = $_GET['productName'];
-    $description =  $_GET['description'];
+    $description =  $_GET['productDescription'];
     $price =  $_GET['price'];
     $catId =  $_GET['catId'];
     $image = $_GET['productImage'];
     
-    $sql = "UPDATE  m_product` SET productName = :productName,
+    $sql = "UPDATE om_product SET productName = :productName,
                                    productDescription = :description";
     $np = array();
-    $np[":productName"] = $productName;
-    $np[":productDescription"] = $description;
-    $np[":productImage"] = $image;
-    $np[":price"] = $price;
-    $np[":catId"] = $catId;
+    $productName=$np[":productName"];
+    $description=$np[":productDescription"];
+    $image=$np[":productImage"];
+    $price=$np[":price"];
+    $catId=$np[":catId"];
     
     $stmt = $dbConn->prepare($sql);
     $stmt->execute($np);
-    
+    $record = $stmt->fetch(PDO::FETCH_ASSOC);
+    //print_r($record);
 }
 
 if (isset($_GET['productId'])) 
@@ -31,7 +33,7 @@ if (isset($_GET['productId']))
   
   
   
-print_r($productInfo);
+    print_r($productInfo);
     
 }
 ?>
