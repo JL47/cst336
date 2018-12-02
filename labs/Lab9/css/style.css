@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    padding: auto;
+    font-family: cursive;
+    border-width:150px;
+    color: rgb(75,150,180);
+    border:ridge;
+}
+body{
+    background-color: rgb(200,150,90);
+    padding: 8px;
+    text-align: center;
+    border: double;
+    border-width: thick;
+    border-color: rgb(75,100,180);
+}
