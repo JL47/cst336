@@ -1,0 +1,18 @@
+[03-Dec-2018 23:18:28 UTC] PHP Warning:  include(../../inc/dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php on line 2
+[03-Dec-2018 23:18:28 UTC] PHP Stack trace:
+[03-Dec-2018 23:18:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php:0
+[03-Dec-2018 23:18:28 UTC] PHP Warning:  include(): Failed opening '../../inc/dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php on line 2
+[03-Dec-2018 23:18:28 UTC] PHP Stack trace:
+[03-Dec-2018 23:18:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php:0
+[03-Dec-2018 23:18:28 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php on line 3
+[03-Dec-2018 23:18:28 UTC] PHP Stack trace:
+[03-Dec-2018 23:18:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php:0
+[03-Dec-2018 23:19:12 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php on line 8
+[03-Dec-2018 23:19:12 UTC] PHP Stack trace:
+[03-Dec-2018 23:19:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php:0
+[03-Dec-2018 23:19:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php on line 8
+[03-Dec-2018 23:19:58 UTC] PHP Stack trace:
+[03-Dec-2018 23:19:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php:0
+[03-Dec-2018 23:21:59 UTC] PHP Fatal error:  Call to undefined function son_encode() in /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php on line 12
+[03-Dec-2018 23:21:59 UTC] PHP Stack trace:
+[03-Dec-2018 23:21:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/Lab10/api/getPetInfo.php:0
