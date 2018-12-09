@@ -76,51 +76,12 @@ function getAllPets(){
 	        echo "<hr><br>";
 	    }
 	  ?> 
-<!--	  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">-->
-<!--  <ol class="carousel-indicators">-->
-<!--    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>-->
-<!--  <?php-->
-<!--   for ($i=0; $i<11;$i++){-->
-<!--     echo "<li data-target='#carouselExampleIndicators' data-slide-to='$i'></li>";-->
-<!--   }-->
-<!--  ?>-->
-<!--  </ol>-->
-<!--  <div class="carousel-inner">-->
-<!--    <?php-->
-<!--     for ($i=0; $i<11;$i++){-->
-<!--      do {-->
-<!--        $pets = getAllPets();-->
-<!--      }-->
-<!--      while (!empty($pets));-->
-<!--	        echo "<div class=\"carousel-item ";-->
-<!--	        echo ($i == 0)?"active ":" ";-->
-<!--	        echo "\">";-->
-<!--	        echo "<ul><li>Name: " ."<a href='#' class = 'petLink' id = '" . $pet['id'] . "'>" . $pet['name'] . " </a>" . "</li>";-->
-<!--	        echo "<li>Type: " . $pet['type'] . "</li></ul>";-->
-<!--	        echo "<button id = '" . $pet['id'] . "'type='button' class='btn btn-primary petLink'>Adopt Me</button>";-->
-<!--	        echo  "<img class=\"d-block w-100\" src=\"img" . $pet['petImage'] . "\"alt=\"Second slide\">";-->
-
-<!--	        echo "<hr><br>";-->
-      
-<!--    }-->
-<!--    ?>-->
+	  
     
-<!--    <div class="carousel-item">-->
-<!--    </div>-->
-    
-<!--  </div>-->
-<!--  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">-->
-<!--    <span class="carousel-control-prev-icon" aria-hidden="true"></span>-->
-<!--    <span class="sr-only">Previous</span>-->
-<!--  </a>-->
-<!--  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">-->
-<!--    <span class="carousel-control-next-icon" aria-hidden="true"></span>-->
-<!--    <span class="sr-only">Next</span>-->
-<!--  </a>-->
-<!--</div>-->
-	  <!-- Button trigger modal -->
 
-<!-- Modal -->
+	  
+
+
 <div class="modal fade" id="petModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
